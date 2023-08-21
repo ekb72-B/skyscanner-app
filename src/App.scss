@@ -5,6 +5,8 @@
   margin: 0 auto;
 }
 
+
+
 .App {
   text-align: center;
 
@@ -26,12 +28,15 @@
   }
 
   &__main {
-    padding: $bpk-spacing-xxl;
+    padding: $bpk-spacing-xl;
 
     @include container;
 
     @include bpk-breakpoint-mobile {
       padding: $bpk-spacing-base;
+    }
+    &__dateInput{
+      color: green;
     }
   }
 
@@ -42,4 +47,25 @@
   &__text {
     margin-bottom: $bpk-spacing-sm;
   }
+
+  // &__calendarinput {
+  //   width 
+  // }
+
+  &__calendar{
+    color: $bpk-primary-gradient;
+    width : 100%;
+    outline: $bpk-primary-gradient;
+    margin-left : 2.5%;
+    margin-top: 1%;
+  }
+
+  &__calbutton{
+    margin: 2.5%;
+  }
+
+
+
+
+  
 }
