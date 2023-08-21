@@ -11,6 +11,7 @@ import BpkInput, {
   INPUT_TYPES,
 } from '@skyscanner/backpack-web/bpk-component-input';
 import format from 'date-fns/format';
+import { BpkAccordion, BpkAccordionItem, withSingleItemAccordionState } from '@skyscanner/backpack-web/bpk-component-accordion';
 
 const formatDateFull = (date) => format(date, 'EEEE, do MMMM yyyy');
 const formatMonth = (date) => format(date, 'MMMM yyyy');
@@ -24,6 +25,7 @@ const daysOfWeek = [
   // ...
 ];
 const getClassName = cssModules(STYLES);
+const SingleItemAccordion = withSingleItemAccordionState(BpkAccordion);
 
 export default class App extends Component {
   constructor() {
