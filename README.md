@@ -1,17 +1,18 @@
-> _This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) +
-> [backpack-react-scripts](https://github.com/Skyscanner/backpack-react-scripts/tree/master/packages/react-scripts)._
-> It is very similar to one that you would create using [Create React App](https://github.com/facebook/create-react-app)
-> without [backpack-react-scripts](https://github.com/Skyscanner/backpack-react-scripts/tree/master/packages/react-scripts),
-> so please refer to [it's documentation](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
-> for more usage information.
-
 #  Forage Skyscanner Front-End Developer Virtual Experience Program
+![SkyScanner](https://cdn.theforage.com/vinternships/companyassets/skoQmxqhtgWmKv2pm/PtevGh8LnSCNZFt9B/1650983674492/Skyscanner_Logo_Wordmarque_SkyBlue_RGB.png)
 
 ## [Program Link](https://www.theforage.com/virtual-experience/km4rw7dihDr3etqom/skyscanner/skyscanner-front-end-software-engineering-virtual-job-simulation/overview)
 
 [Skyscanner is a search engine and travel agency that allows people to research and book travel options like flights, hotels, and car rentals. The company also created Backpack, an open-source collection of design resources and reusable guidelines, for use in all of their projects.
 
 In this task, you’ll be using the Backpack library to build a simple web application. The application you build will be a simple page for picking a date. Since Skyscanner helps people to research and book travel reservations, this is a functionality that gets a lot of use! The application you create will include the header text “Reservation Date,” a calendar, and a “continue” button.]
+
+> _This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) +
+> [backpack-react-scripts](https://github.com/Skyscanner/backpack-react-scripts/tree/master/packages/react-scripts)._
+> It is very similar to one that you would create using [Create React App](https://github.com/facebook/create-react-app)
+> without [backpack-react-scripts](https://github.com/Skyscanner/backpack-react-scripts/tree/master/packages/react-scripts),
+> so please refer to [it's documentation](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
+> for more usage information.
 
 ## npm script commands
 
