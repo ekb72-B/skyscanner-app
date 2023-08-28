@@ -5,9 +5,11 @@
 > so please refer to [it's documentation](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
 > for more usage information.
 
-# [_Put your project name here_]
+# Forage Skyscanner Front-End Developer Program [https://www.theforage.com/virtual-experience/km4rw7dihDr3etqom/skyscanner/skyscanner-front-end-software-engineering-virtual-job-simulation/overview]
 
-[_Add a brief description of your project here._]
+[Skyscanner is a search engine and travel agency that allows people to research and book travel options like flights, hotels, and car rentals. The company also created Backpack, an open-source collection of design resources and reusable guidelines, for use in all of their projects.
+
+In this task, you’ll be using the Backpack library to build a simple web application. The application you build will be a simple page for picking a date. Since Skyscanner helps people to research and book travel reservations, this is a functionality that gets a lot of use! The application you create will include the header text “Reservation Date,” a calendar, and a “continue” button.]
 
 ## npm script commands
 
